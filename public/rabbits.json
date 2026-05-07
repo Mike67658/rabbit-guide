@@ -1,0 +1,373 @@
+[
+  {
+    "name": "American Rabbit",
+    "summary": "A calm and rare rabbit breed known for its commercial body shape and gentle personality.",
+    "size": "Large",
+    "temperament": "Calm",
+    "origin": "United States"
+  },
+  {
+    "name": "American Chinchilla",
+    "summary": "A beautiful silver-gray rabbit breed developed for fur and meat production.",
+    "size": "Large",
+    "temperament": "Gentle",
+    "origin": "United States"
+  },
+  {
+    "name": "American Fuzzy Lop",
+    "summary": "A small fluffy lop rabbit breed with a playful personality and wooly coat.",
+    "size": "Small",
+    "temperament": "Playful",
+    "origin": "United States"
+  },
+  {
+    "name": "American Sable",
+    "summary": "A medium-sized rabbit breed with soft sepia-colored fur and a calm nature.",
+    "size": "Medium",
+    "temperament": "Friendly",
+    "origin": "United States"
+  },
+  {
+    "name": "Argente Brun",
+    "summary": "A rare rabbit breed with rich brown ticking and a compact muscular body.",
+    "size": "Medium",
+    "temperament": "Active",
+    "origin": "France"
+  },
+  {
+    "name": "Belgian Hare",
+    "summary": "A fast and elegant rabbit breed bred to resemble a wild hare.",
+    "size": "Large",
+    "temperament": "Energetic",
+    "origin": "Belgium"
+  },
+  {
+    "name": "Beveren",
+    "summary": "A large rabbit breed valued for its dense fur and relaxed personality.",
+    "size": "Large",
+    "temperament": "Calm",
+    "origin": "Belgium"
+  },
+  {
+    "name": "Blanc de Hotot",
+    "summary": "A striking white rabbit breed famous for its black eye bands.",
+    "size": "Medium",
+    "temperament": "Friendly",
+    "origin": "France"
+  },
+  {
+    "name": "Britannia Petite",
+    "summary": "A tiny energetic rabbit breed with a slender arched body.",
+    "size": "Small",
+    "temperament": "Energetic",
+    "origin": "England"
+  },
+  {
+    "name": "Californian",
+    "summary": "A popular white rabbit breed with dark points and a calm personality.",
+    "size": "Large",
+    "temperament": "Gentle",
+    "origin": "United States"
+  },
+  {
+    "name": "Champagne d'Argent",
+    "summary": "A silver rabbit breed known for its sparkling coat and calm nature.",
+    "size": "Large",
+    "temperament": "Relaxed",
+    "origin": "France"
+  },
+  {
+    "name": "Checkered Giant",
+    "summary": "A large athletic rabbit breed with bold spotted markings.",
+    "size": "Giant",
+    "temperament": "Active",
+    "origin": "Germany"
+  },
+  {
+    "name": "Cinnamon",
+    "summary": "A unique rabbit breed with warm rust-colored fur and a friendly temperament.",
+    "size": "Medium",
+    "temperament": "Friendly",
+    "origin": "United States"
+  },
+  {
+    "name": "Crème d'Argent",
+    "summary": "A rare rabbit breed with creamy orange fur and silver ticking.",
+    "size": "Medium",
+    "temperament": "Calm",
+    "origin": "France"
+  },
+  {
+    "name": "Dutch",
+    "summary": "A classic rabbit breed recognized for its distinctive color pattern.",
+    "size": "Small",
+    "temperament": "Friendly",
+    "origin": "Netherlands"
+  },
+  {
+    "name": "Dwarf Hotot",
+    "summary": "A compact white rabbit breed with dramatic black eye bands.",
+    "size": "Small",
+    "temperament": "Curious",
+    "origin": "Germany"
+  },
+  {
+    "name": "English Angora",
+    "summary": "A fluffy wool-producing rabbit breed with long soft fur.",
+    "size": "Medium",
+    "temperament": "Gentle",
+    "origin": "England"
+  },
+  {
+    "name": "English Lop",
+    "summary": "A rabbit breed famous for having extremely long floppy ears.",
+    "size": "Large",
+    "temperament": "Relaxed",
+    "origin": "England"
+  },
+  {
+    "name": "English Spot",
+    "summary": "A marked rabbit breed with a butterfly nose marking and spotted body.",
+    "size": "Medium",
+    "temperament": "Active",
+    "origin": "England"
+  },
+  {
+    "name": "Flemish Giant",
+    "summary": "One of the largest rabbit breeds in the world with a gentle personality.",
+    "size": "Giant",
+    "temperament": "Gentle",
+    "origin": "Belgium"
+  },
+  {
+    "name": "Florida White",
+    "summary": "A compact white rabbit breed with red eyes and a calm temperament.",
+    "size": "Small",
+    "temperament": "Calm",
+    "origin": "United States"
+  },
+  {
+    "name": "French Angora",
+    "summary": "A wool rabbit breed known for its dense fluffy coat.",
+    "size": "Large",
+    "temperament": "Gentle",
+    "origin": "France"
+  },
+  {
+    "name": "French Lop",
+    "summary": "A large heavy lop rabbit breed with floppy ears and a relaxed personality.",
+    "size": "Large",
+    "temperament": "Relaxed",
+    "origin": "France"
+  },
+  {
+    "name": "Giant Angora",
+    "summary": "A massive wool-producing rabbit breed with thick fluffy fur.",
+    "size": "Giant",
+    "temperament": "Gentle",
+    "origin": "United States"
+  },
+  {
+    "name": "Harlequin",
+    "summary": "A colorful rabbit breed with unique alternating fur patterns.",
+    "size": "Medium",
+    "temperament": "Playful",
+    "origin": "France"
+  },
+  {
+    "name": "Havana",
+    "summary": "A compact rabbit breed with rich chocolate-colored fur.",
+    "size": "Medium",
+    "temperament": "Calm",
+    "origin": "Netherlands"
+  },
+  {
+    "name": "Himalayan",
+    "summary": "A slender white rabbit breed with dark ears, nose, feet, and tail.",
+    "size": "Small",
+    "temperament": "Gentle",
+    "origin": "Asia"
+  },
+  {
+    "name": "Holland Lop",
+    "summary": "A very popular small lop rabbit breed with a compact body and floppy ears.",
+    "size": "Small",
+    "temperament": "Friendly",
+    "origin": "Netherlands"
+  },
+  {
+    "name": "Jersey Wooly",
+    "summary": "A fluffy small rabbit breed developed as a companion rabbit.",
+    "size": "Small",
+    "temperament": "Docile",
+    "origin": "United States"
+  },
+  {
+    "name": "Lilac",
+    "summary": "A rabbit breed with uniquely soft lavender-gray fur coloration.",
+    "size": "Medium",
+    "temperament": "Relaxed",
+    "origin": "England"
+  },
+  {
+    "name": "Lionhead Rabbit",
+    "summary": "A small rabbit breed known for its fluffy mane around the head.",
+    "size": "Small",
+    "temperament": "Playful",
+    "origin": "Belgium"
+  },
+  {
+    "name": "Mini Lop",
+    "summary": "A compact lop rabbit breed with floppy ears and a friendly nature.",
+    "size": "Medium",
+    "temperament": "Friendly",
+    "origin": "Germany"
+  },
+  {
+    "name": "Mini Rex",
+    "summary": "A soft velvet-furred rabbit breed loved for its plush coat.",
+    "size": "Small",
+    "temperament": "Calm",
+    "origin": "United States"
+  },
+  {
+    "name": "Mini Satin",
+    "summary": "A shiny-coated rabbit breed with smooth satin-like fur.",
+    "size": "Small",
+    "temperament": "Friendly",
+    "origin": "United States"
+  },
+  {
+    "name": "Netherland Dwarf",
+    "summary": "One of the smallest rabbit breeds with a compact round appearance.",
+    "size": "Small",
+    "temperament": "Energetic",
+    "origin": "Netherlands"
+  },
+  {
+    "name": "New Zealand",
+    "summary": "A large rabbit breed commonly known for its calm personality and white coat.",
+    "size": "Large",
+    "temperament": "Gentle",
+    "origin": "United States"
+  },
+  {
+    "name": "Palomino",
+    "summary": "A golden-colored rabbit breed with a commercial body type.",
+    "size": "Large",
+    "temperament": "Calm",
+    "origin": "United States"
+  },
+  {
+    "name": "Polish",
+    "summary": "A tiny compact rabbit breed with a short rounded face.",
+    "size": "Small",
+    "temperament": "Friendly",
+    "origin": "England"
+  },
+  {
+    "name": "Rex",
+    "summary": "A rabbit breed famous for its incredibly soft plush fur.",
+    "size": "Medium",
+    "temperament": "Calm",
+    "origin": "France"
+  },
+  {
+    "name": "Rhinelander",
+    "summary": "A spotted rabbit breed with butterfly markings and an athletic body.",
+    "size": "Medium",
+    "temperament": "Active",
+    "origin": "Germany"
+  },
+  {
+    "name": "Satin",
+    "summary": "A rabbit breed with glossy fur caused by a unique hair shaft structure.",
+    "size": "Large",
+    "temperament": "Friendly",
+    "origin": "United States"
+  },
+  {
+    "name": "Satin Angora",
+    "summary": "A wool rabbit breed combining satin shine with fluffy angora fur.",
+    "size": "Large",
+    "temperament": "Gentle",
+    "origin": "Canada"
+  },
+  {
+    "name": "Silver",
+    "summary": "An old rabbit breed with distinctive silver-tipped fur.",
+    "size": "Small",
+    "temperament": "Active",
+    "origin": "England"
+  },
+  {
+    "name": "Silver Fox",
+    "summary": "A rare rabbit breed with dense stand-up fur resembling silver fox fur.",
+    "size": "Large",
+    "temperament": "Calm",
+    "origin": "United States"
+  },
+  {
+    "name": "Silver Marten",
+    "summary": "A compact rabbit breed with striking silver markings.",
+    "size": "Medium",
+    "temperament": "Lively",
+    "origin": "United States"
+  },
+  {
+    "name": "Standard Chinchilla",
+    "summary": "A rabbit breed with dense gray fur inspired by chinchilla coloration.",
+    "size": "Medium",
+    "temperament": "Gentle",
+    "origin": "France"
+  },
+  {
+    "name": "Tan",
+    "summary": "A sleek rabbit breed with rich contrasting tan markings.",
+    "size": "Small",
+    "temperament": "Energetic",
+    "origin": "England"
+  },
+  {
+    "name": "Thrianta",
+    "summary": "A bright orange-red rabbit breed with a compact rounded body.",
+    "size": "Medium",
+    "temperament": "Friendly",
+    "origin": "Netherlands"
+  },
+  {
+    "name": "Mini Californian",
+    "summary": "A compact version of the Californian rabbit breed with dark points.",
+    "size": "Small",
+    "temperament": "Gentle",
+    "origin": "United States"
+  },
+  {
+    "name": "Blue Holicer",
+    "summary": "A rare blue rabbit breed with smooth fur and compact size.",
+    "size": "Small",
+    "temperament": "Calm",
+    "origin": "Czech Republic"
+  },
+  {
+    "name": "Czech Frosty",
+    "summary": "A rare white rabbit breed with frosted markings and compact build.",
+    "size": "Small",
+    "temperament": "Friendly",
+    "origin": "Czech Republic"
+  },
+  {
+    "name": "Dwarf Papillon",
+    "summary": "A small spotted rabbit breed with energetic behavior and striking markings.",
+    "size": "Small",
+    "temperament": "Active",
+    "origin": "Europe"
+  },
+  {
+    "name": "Giant Chinchilla",
+    "summary": "A giant rabbit breed with dense chinchilla-colored fur and a calm personality.",
+    "size": "Giant",
+    "temperament": "Gentle",
+    "origin": "United States"
+  }
+]
