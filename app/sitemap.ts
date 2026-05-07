@@ -57,32 +57,17 @@ export default function sitemap() {
     "thrianta",
   ];
 
-  const rabbitUrls = rabbitPages.map((slug) => ({
-    url: `${baseUrl}/rabbits/${slug}`,
-    lastModified: new Date(),
-  }));
+  const staticPages = ["", "about", "privacy", "terms", "contact"];
 
   return [
-    {
-      url: baseUrl,
+    ...staticPages.map((page) => ({
+      url: page ? `${baseUrl}/${page}` : baseUrl,
       lastModified: new Date(),
-    },
-    {
-      url: `${baseUrl}/about`,
+    })),
+
+    ...rabbitPages.map((slug) => ({
+      url: `${baseUrl}/rabbits/${slug}`,
       lastModified: new Date(),
-    },
-    {
-      url: `${baseUrl}/privacy`,
-      lastModified: new Date(),
-    },
-    {
-      url: `${baseUrl}/terms`,
-      lastModified: new Date(),
-    },
-    {
-      url: `${baseUrl}/contact`,
-      lastModified: new Date(),
-    },
-    ...rabbitUrls,
+    })),
   ];
 }
