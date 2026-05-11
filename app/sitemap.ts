@@ -1,5 +1,5 @@
 export default function sitemap() {
-  const baseUrl = "https://rabbitbreedguide.com";
+  const baseUrl = "https://www.rabbitbreedguide.com";
 
   const rabbitPages = [
     "american-chinchilla",
@@ -61,7 +61,7 @@ export default function sitemap() {
 
   return [
     ...staticPages.map((page) => ({
-      url: page ? `${baseUrl}/${page}` : baseUrl,
+      url: page ? `${baseUrl}/${page}` : `${baseUrl}/`,
       lastModified: new Date(),
     })),
 
